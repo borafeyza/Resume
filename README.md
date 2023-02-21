@@ -1,6 +1,5 @@
 # Test Automation Engineer
 
-_Software Automation Engineer_ <br>
 
 I have worked on both mobile and web applications test processes for almost 4 years. I am confident that I can provide you with an automated solution in a short period of time, allowing us to execute periodic automated tests on your product, ensuring there is no regression whenever there is a change, while also providing manual test solutions. I give ***Web***, ***Mobile*** and ***Api automation*** testing services with ***OOP*** approach by ***JAVA***.  
 
